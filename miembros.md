@@ -18,3 +18,4 @@
 * Antman
 * Nick Fury
 * Doctor Strange
+* Shang-Chi
